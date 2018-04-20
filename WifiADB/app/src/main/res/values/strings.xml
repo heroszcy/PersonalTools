@@ -4,4 +4,7 @@
     <string name="title_activity_home">HomeActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="wifi_state">WIFI State: %1s</string>
+    <string name="ethernet_state">ETHERNET State: %1s</string>
 </resources>
